@@ -109,17 +109,18 @@ C.代码运行全过程截图(无截图无说明的代码不给分)
 
 ​	设置lenth=8时，表示寻找前两位的碰撞，得到结果如下，第二行为两个产生哈希碰撞的消息，下面是这两个消息及其对应的哈希值：
 
-![1659155646102](https://cdn.jsdelivr.net/gh/RuizeZhou/1659155646102.png)
+![1659155646102](https://cdn.jsdelivr.net/gh/RuizeZhou/images/1659155646102.png)
 
 依次增加lenth大小，得到碰撞位更多：
 
 增加lenth值的大小，lenth=12,寻找前三位碰撞：
 
-![1659153075998](https://cdn.jsdelivr.net/gh/RuizeZhou/1659153075998.png)
+![1659153075998](https://cdn.jsdelivr.net/gh/RuizeZhou/images/1659153075998.png)
 
 ​	lenth=16，寻找前四位碰撞：
 
-![1659153678168](https://cdn.jsdelivr.net/gh/RuizeZhou/1659153678168.png)
+![1659153678168](https://cdn.jsdelivr.net/gh/RuizeZhou/images/1659153678168.png)
+
 
 ​	以此类推。
 
